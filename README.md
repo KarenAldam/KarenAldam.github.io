@@ -28,5 +28,5 @@ Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS, así como i
 
 ## 🔗 Link al demo!
  Visualiza mi proyecto terminando aquí: [clonación de Google] 
-(https://github.com/KarenAldam/KarenAldam.github.io)
+(https://karenaldam.github.io/)
 
