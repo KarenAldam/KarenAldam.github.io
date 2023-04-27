@@ -4,8 +4,8 @@
 ## Índice
 * [1. Intro](https://github.com/KarenAldam/KarenAldam.github.io/blob/main/README.md#-intro)
 * [2. ¿Qué construí?](https://github.com/KarenAldam/KarenAldam.github.io/blob/main/README.md#%EF%B8%8F-qu%C3%A9-constru%C3%AD)
-* [3. Objetivos del proyecto](https://github.com/KarenAldam/KarenAldam.github.io/blob/main/README.md#objetivo-del-proyecto)
-* [4. Link al demo!](https://github.com/KarenAldam/KarenAldam.github.io/blob/main/README.md#link-al-demo)
+* [3. Objetivos del proyecto](https://github.com/KarenAldam/KarenAldam.github.io/blob/main/README.md#-objetivo-del-proyecto)
+* [4. Link al demo!](https://github.com/KarenAldam/KarenAldam.github.io/blob/main/README.md#-link-al-demo)
 
 ***
 
